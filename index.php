@@ -11,9 +11,8 @@
         <?=slider_background(".sliderrightpart", 102)?>
         <?=slider_background(".sliderleftpart", 114)?>
     </style>
-    <?php define( 'WP_USE_THEMES', false ); get_header(); ?> 
+    <?php /*define( 'WP_USE_THEMES', false );*/ get_header(); ?> 
     <?php
-        
         wp_head(); // tohle musi byt tesne pred zakoncenym head
     ?>
 </head>
@@ -226,3 +225,4 @@
     ?>
 </body>
 </html>
+
