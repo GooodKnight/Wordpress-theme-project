@@ -1,20 +1,20 @@
-## Wordpress-theme-project
+# Wordpress-theme-project
 
 Custom wordpress theme presenting a simple e-shop page. Includes homepage, detail, filtering and pagination.
 Project also includes example screenshots.
 
-# Content
+## Content
 
 The theme was originally developed with several example blog posts and categories.
 These items are not included in the repository because they belong to the WordPress database.
 
-# Installation
+## Installation
 
 1. Download the repository
 2. Place the folder into: wp-content/themes/
 3. Activate the theme in WordPress admin panel
 
-# Used categories
+## Used categories
 
 - ČLUNY, MOTORY, BELLY BOATY
 - DALŠÍ
@@ -32,7 +32,7 @@ These items are not included in the repository because they belong to the WordPr
 - Doprava zdarma
 - Výprodej
 
-# Menu Setup
+## Menu Setup
 
 1. Go to WordPress Admin
 2. Navigate to Appearance → Menus
@@ -41,7 +41,7 @@ These items are not included in the repository because they belong to the WordPr
 5. Add categories (first 7) to main-menu, to next two, add simple posts
 6. When creating posts, asign categories to filter them out
 
-# Filtering
+## Filtering
 
 The page filters posts using a GET parameter "cat".
 For example: /?cat=12
