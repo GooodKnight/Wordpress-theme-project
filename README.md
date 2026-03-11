@@ -45,3 +45,8 @@ These items are not included in the repository because they belong to the WordPr
 
 The page filters posts using a GET parameter "cat".
 For example: /?cat=12
+
+## image handling
+
+Folder imgback stays in same folder.
+Folder imgmean should moved up to wordpress directory.
